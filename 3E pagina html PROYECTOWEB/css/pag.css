@@ -1,0 +1,90 @@
+html{
+    font-size: 62,5%;
+}
+body{
+    background-color: rgb(235, 230, 249);
+}
+header{
+    display: flex;
+    font-family: 'Encode Sans', sans-serif;
+    border: 10px solid  rgb(226, 204, 243);
+    background-color: rgb(226, 204, 243);
+}
+.img1 {
+width: 120px;
+height: 120px;
+}
+.nav-ng{
+    
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(197, 132, 228);
+}
+a {
+    font-family: 'Silkscreen', cursive;
+    color: rgb(60, 24, 96);
+}
+.nav-ng a:hover{
+    background-color: #c93ac0;
+}
+h1 {
+    font-size: 3rem;
+    color: rgb(138, 25, 89);
+}
+span {
+    color: rgb(221, 91, 202);
+}
+div{
+    margin: 30px 30px 30px;
+    border: 10px double rgb(129, 85, 209);
+}
+.titulo1 {
+    color: rgb(61, 29, 91);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    display: flex;
+    justify-content: center;
+}
+.text1 {
+    margin: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#elem {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img2 {
+    margin: 10px 330px;
+    width: 560px;
+}
+.img3 {
+    width: 400px;
+    height: 300px;
+    margin-top: 13px 15px 15px;
+}
+#doc {
+    border: 3px dotted rgb(137, 92, 209);
+    background-color: rgb(137, 92, 209);
+    margin: 5px 50px 10px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+#doc2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px 50px 50px;
+    border: 4px dotted rgb(39, 16, 131);
+    background-color: rgb(171, 126, 245);
+}
+#expl {
+    margin-left: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+aside li span {
+    color: rgb(31, 0, 204);
+    font-weight: bold;
+}
